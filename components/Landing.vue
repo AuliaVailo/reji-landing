@@ -16,7 +16,7 @@
                   <div class="flex items-center justify-between w-full md:w-auto">
                     <a href="#">
                       <span class="sr-only">Reji</span>
-                      <img class="h-8 w-auto sm:h-10" src="/images/logo.png">
+                      <img class="h-8 w-auto sm:h-10" src="../assets/images/logo.png">
                     </a>
                     <div class="-mr-2 flex items-center md:hidden">
                       <button type="button" class="bg-white rounded-md p-2 inline-flex items-center justify-center text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-indigo-500" aria-expanded="false" @click="menuShow = !menuShow">
@@ -55,7 +55,7 @@
               <div class="rounded-lg shadow-md bg-white ring-1 ring-black ring-opacity-5 overflow-hidden">
                 <div class="px-5 pt-4 flex items-center justify-between">
                   <div>
-                    <img class="h-8 w-auto" src="/images/logo.png" alt="">
+                    <img class="h-8 w-auto" src="../assets/images/logo.png" alt="">
                   </div>
                   <div class="-mr-2">
                     <button type="button" class="bg-white rounded-md p-2 inline-flex items-center justify-center text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-indigo-500" @click="menuShow = !menuShow">
@@ -104,7 +104,7 @@
         </div>
       </div>
       <div class="lg:absolute lg:inset-y-0 lg:right-0 lg:w-1/2">
-        <img class="h-56 w-full object-cover sm:h-72 md:h-96 lg:w-full lg:h-full" src="/images/home.jpeg" alt="">
+        <img class="h-56 w-full object-cover sm:h-72 md:h-96 lg:w-full lg:h-full" src="../assets/images/home.jpeg" alt="">
       </div>
     </div>
 
@@ -162,7 +162,7 @@
         <div class="container">
             <div class="grid grid-rows-3 grid-flow-col gap-4 pt-3">
                 <div class="row-span-3 text-white">
-                    <img class="h-10" src="/images/logo-negative.png" alt="Reji">
+                    <img class="h-10" src="../assets/images/logo-negative.png" alt="Reji">
                     <p>Reji POS</p>
                     <p>Aplikasi kasir untuk semua</p>
                     <img class="h-10"
